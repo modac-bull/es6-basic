@@ -29,5 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
     return resultArr;
   }
   answer();
+
+  console.log(123);
 });
 
